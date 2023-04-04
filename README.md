@@ -1,16 +1,15 @@
 # Linkedlisttemplate
 
-# Overview
+Overview
 This is a generic C++ class template ListCollection which implements a singly linked list that can store elements of any data type.
 
 The class provides a variety of functions to add, remove, and modify elements in the list. It also provides functions to display the list and retrieve the value of a specific element.
-
-# Class Declaration
+ Class Declaration
 The class is declared in the ListCollection.h header file, which must be included in any file that uses this class.
 
 The class is implemented using templates, so it can store elements of any data type.
 
-# Class Methods
+Class Methods
 The ListCollection class provides the following methods:
 
 ListCollection() : Constructor for the ListCollection class. Initializes an empty linked list.
